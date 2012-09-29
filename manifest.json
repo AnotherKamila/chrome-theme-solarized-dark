@@ -2,9 +2,11 @@
   "name": "Solarized Dark",
   "theme": {
     "colors": {
-      "frame": [ 0, 43, 54 ],
-      "toolbar": [ 0, 43, 54, 0 ],
+      "frame": [ 0, 43, 54, 1 ],
+      "toolbar": [ 0, 43, 54, 1 ],
       "button_background": [ 7, 54, 66 ],
+
+      "cws_background": [0,255,0],
 
       "tab_text": [ 147, 161, 161 ],
       "tab_background_text": [ 88, 110, 117 ],
@@ -23,7 +25,8 @@
       "theme_ntp_background": "images/ntp_background.jpg"
     },
     "tints": {
-      "buttons": [ 0.53, 0.95, 0.24 ]
+      "buttons": [ 0.53, 0.95, 0.24 ],
+      "frame": [0,255,0]
     },
     "properties": {
       "ntp_background_repeat": "no-repeat",
