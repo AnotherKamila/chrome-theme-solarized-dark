@@ -1,0 +1,35 @@
+{
+  "name": "Solarized Dark",
+  "theme": {
+    "colors": {
+      "frame": [ 0, 43, 54 ],
+      "toolbar": [ 0, 43, 54, 0 ],
+      "button_background": [ 7, 54, 66 ],
+
+      "tab_text": [ 147, 161, 161 ],
+      "tab_background_text": [ 88, 110, 117 ],
+
+      "ntp_background": [ 0, 43, 54 ],
+      "ntp_header": [ 7, 54, 66 ],
+      "ntp_section": [ 7, 54, 66 ],
+      "ntp_text": [ 131, 148, 150 ],
+      "ntp_link": [ 220, 50, 47 ],
+      "bookmark_text": [ 220, 50, 47 ]
+    },
+    "images": {
+      "theme_frame": "images/blank.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/ntp_background.jpg"
+    },
+    "tints": {
+      "buttons": [ 0.53, 0.95, 0.24 ]
+    },
+    "properties": {
+      "ntp_background_repeat": "no-repeat",
+      "ntp_background_alignment": "right bottom",
+      "ntp_logo_alternate": 1
+    }
+  },
+  "version": "2.0"
+}
